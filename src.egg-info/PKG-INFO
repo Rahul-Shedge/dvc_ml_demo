@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Package for dvc ml demo
+Home-page: https://github.com/Rahul-Shedge/dvc_ml_demo
+Author: rahuls
+Author-email: rahulshedge555@outlook.com
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
