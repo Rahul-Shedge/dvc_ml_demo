@@ -1,3 +1,9 @@
 dvc
 pandas
 scikit-learn
+
+
+
+# installing local packages
+
+-e .
