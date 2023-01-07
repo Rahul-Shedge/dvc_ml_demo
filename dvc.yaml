@@ -1,4 +1,11 @@
+
 stages:
+  always_run:
+    cmd: python rough/test.py
+    #out: of this stage can be track with any other stage 
+    # where its needed, To keep this process running its necessary to do this.
+
+
   load_data:
     cmd: python src/stage_01_load_save.py  --config=config/config.yaml
     deps:
